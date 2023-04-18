@@ -15,3 +15,5 @@ to query the important data from it. Lastly, charts and tables were created usin
 
 Additionally, I created a tableau dashboard to practice my data visualization skills.
 
+![Revenue per Year](https://github.com/shiru76/bike-store-data-analysis/tree/main/images/revenueperyear.png)
+

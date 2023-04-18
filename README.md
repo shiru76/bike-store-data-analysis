@@ -11,7 +11,7 @@ SQL, Excel, and Tableau
 The dataset was loaded in an MS SQL database named "BikeStore". Then, an excel workbook was connected to the database 
 to query the important data from it. Lastly, charts and tables were created using the same excel workbook.
 
-Additionally, I created a tableau dashboard to practice my data visualization skills.
+Additionally, I created a tableau [dashboard](https://public.tableau.com/app/profile/iron.lao/viz/BikeStoreDashboard_16817431332370/Dashboard1) to practice my data visualization skills.
 
 ### ❓ Questions
 **1. Which year has the highest revenue?**
